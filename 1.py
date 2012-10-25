@@ -1,4 +1,4 @@
-#!include /usr/env/python
+#!include /usr/bin/python
 
 import math
 if __name__ == '__main__':
