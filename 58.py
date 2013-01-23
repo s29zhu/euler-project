@@ -25,6 +25,6 @@ if __name__ == "__main__":
 		if isPrime(down_left):
 			prime_num += 1
 		if diagnal_num/prime_num >= 10:
-			print 2 * i + 1, diagnal_num, prime_num
+			print 2 * i + 1
 			break;
 				
